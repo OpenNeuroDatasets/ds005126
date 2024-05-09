@@ -26,5 +26,8 @@
         "JPMXS0120330644",
         "JPMJMS2295-05"
     ],
-    "DatasetDOI": "doi:0000"
+    "DatasetDOI": "doi:0000",
+    "EthicsApprovals": [
+        " The study was approved by the Ethics Committee of the National Institutes for Quantum Science and Technology in Chiba, Japan, and all participants provided written informed consent."
+    ]
 }
