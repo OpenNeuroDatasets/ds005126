@@ -1,5 +1,5 @@
 {
-    "Name": "Color Similarity test",
+    "Name": "A neuroimaging dataset during sequential color qualia similarity judgments",
     "BIDSVersion": "1.9.0",
     "DatasetType": "raw",
     "License": "CC0",
@@ -14,16 +14,17 @@
         "Naotsugu Tsuchiya",
         "Makiko Yamada"
     ],
-    "Funding": ["20H05710",
-                "20H05711", 
-                "23H04830",
-                "23H04833", 
-                "22H01108", 
-                "22K18265",
-                "JPMJMS2295-01",
-                "JPMJMS2295-02",
-                "JPMJCR23P4",
-                "JPMXS0120330644"
+    "Funding": [
+        "20H05710",
+        "20H05711",
+        "23H04830",
+        "23H04833",
+        "22H01108",
+        "22K18265",
+        "JPMJMS2295-01",
+        "JPMJMS2295-02",
+        "JPMJCR23P4",
+        "JPMXS0120330644"
     ],
     "DatasetDOI": "doi:0000"
 }
